@@ -1,0 +1,76 @@
+
+
+@font-face {
+  font-family: "Cosmetic";
+  src: url("../fonts/Cosmetic.eot");
+  src: url("../fonts/Cosmeticd41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Cosmetic.woff") format("woff"),
+       url("../fonts/Cosmetic.ttf") format("truetype"),
+       url("../fonts/Cosmetic.svg#Cosmetic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Cosmetic";
+    src: url("../fonts/Cosmetic.svg#Cosmetic") format("svg");
+  }
+}
+
+[class^="cosmetic-"]:before, [class*="cosmetic-"]:before,
+[class^="cosmetic-"]:after, [class*="cosmetic-"]:after {   
+  font-family: Cosmetic;
+  font-style: normal;
+}
+
+.cosmetic-makeup-6:before { content: "\f100"; }
+.cosmetic-eyeliner:before { content: "\f101"; }
+.cosmetic-cotton-1:before { content: "\f102"; }
+.cosmetic-perfume:before { content: "\f103"; }
+.cosmetic-cream-2:before { content: "\f104"; }
+.cosmetic-powder-4:before { content: "\f105"; }
+.cosmetic-mascara-4:before { content: "\f106"; }
+.cosmetic-box:before { content: "\f107"; }
+.cosmetic-makeup-5:before { content: "\f108"; }
+.cosmetic-powder-3:before { content: "\f109"; }
+.cosmetic-spray:before { content: "\f10a"; }
+.cosmetic-eye-shadow-1:before { content: "\f10b"; }
+.cosmetic-facial-mask-1:before { content: "\f10c"; }
+.cosmetic-brushes:before { content: "\f10d"; }
+.cosmetic-facial-mask:before { content: "\f10e"; }
+.cosmetic-woman:before { content: "\f10f"; }
+.cosmetic-soap:before { content: "\f110"; }
+.cosmetic-scissors:before { content: "\f111"; }
+.cosmetic-mascara-3:before { content: "\f112"; }
+.cosmetic-mirror:before { content: "\f113"; }
+.cosmetic-liner-1:before { content: "\f114"; }
+.cosmetic-eyelashes-curler:before { content: "\f115"; }
+.cosmetic-mascara-2:before { content: "\f116"; }
+.cosmetic-makeup-4:before { content: "\f117"; }
+.cosmetic-makeup-3:before { content: "\f118"; }
+.cosmetic-blush-1:before { content: "\f119"; }
+.cosmetic-eye:before { content: "\f11a"; }
+.cosmetic-mascara-1:before { content: "\f11b"; }
+.cosmetic-brush:before { content: "\f11c"; }
+.cosmetic-cream-1:before { content: "\f11d"; }
+.cosmetic-powder-2:before { content: "\f11e"; }
+.cosmetic-makeup-2:before { content: "\f11f"; }
+.cosmetic-lipstick-1:before { content: "\f120"; }
+.cosmetic-eyebrow:before { content: "\f121"; }
+.cosmetic-makeup-1:before { content: "\f122"; }
+.cosmetic-mascara:before { content: "\f123"; }
+.cosmetic-dressing-table:before { content: "\f124"; }
+.cosmetic-powder-1:before { content: "\f125"; }
+.cosmetic-make-up:before { content: "\f126"; }
+.cosmetic-eye-shadow:before { content: "\f127"; }
+.cosmetic-lipstick:before { content: "\f128"; }
+.cosmetic-lips:before { content: "\f129"; }
+.cosmetic-eyelashes:before { content: "\f12a"; }
+.cosmetic-blush:before { content: "\f12b"; }
+.cosmetic-eyelid:before { content: "\f12c"; }
+.cosmetic-cotton:before { content: "\f12d"; }
+.cosmetic-cream:before { content: "\f12e"; }
+.cosmetic-makeup:before { content: "\f12f"; }
+.cosmetic-liner:before { content: "\f130"; }
+.cosmetic-powder:before { content: "\f131"; }

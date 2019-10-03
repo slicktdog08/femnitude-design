@@ -1,0 +1,56 @@
+
+
+@font-face {
+  font-family: "shave";
+  src: url("../fonts/shave.eot");
+  src: url("../fonts/shaved41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/shave.woff") format("woff"),
+       url("../fonts/shave.ttf") format("truetype"),
+       url("../fonts/shave.svg#shave") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "shave";
+    src: url("../fonts/shave.svg#shave") format("svg");
+  }
+}
+
+[class^="shave-"]:before, [class*=" shave-"]:before,
+[class^="shave-"]:after, [class*=" shave-"]:after {   
+  font-family: shave;
+  font-style: normal;
+}
+
+.shave-001-barber:before { content: "\f100"; }
+.shave-002-barber-pole:before { content: "\f101"; }
+.shave-003-location-pin:before { content: "\f102"; }
+.shave-004-barber-1:before { content: "\f103"; }
+.shave-005-razor:before { content: "\f104"; }
+.shave-006-foam:before { content: "\f105"; }
+.shave-007-clipper:before { content: "\f106"; }
+.shave-008-comb:before { content: "\f107"; }
+.shave-009-apron:before { content: "\f108"; }
+.shave-010-electric:before { content: "\f109"; }
+.shave-011-electric-1:before { content: "\f10a"; }
+.shave-012-groom:before { content: "\f10b"; }
+.shave-013-hairbrush:before { content: "\f10c"; }
+.shave-014-hair:before { content: "\f10d"; }
+.shave-015-hair-dryer:before { content: "\f10e"; }
+.shave-016-hair-gel:before { content: "\f10f"; }
+.shave-017-guide:before { content: "\f110"; }
+.shave-018-hair-1:before { content: "\f111"; }
+.shave-019-lotion:before { content: "\f112"; }
+.shave-020-mirror:before { content: "\f113"; }
+.shave-021-moustache:before { content: "\f114"; }
+.shave-022-brush:before { content: "\f115"; }
+.shave-023-scissors:before { content: "\f116"; }
+.shave-024-shave:before { content: "\f117"; }
+.shave-025-skincare:before { content: "\f118"; }
+.shave-026-spray:before { content: "\f119"; }
+.shave-027-razor-1:before { content: "\f11a"; }
+.shave-028-barber-2:before { content: "\f11b"; }
+.shave-029-towel:before { content: "\f11c"; }
+.shave-030-wigs:before { content: "\f11d"; }

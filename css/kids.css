@@ -1,0 +1,126 @@
+
+
+@font-face {
+  font-family: "kids";
+  src: url("../fonts/kids.eot");
+  src: url("../fonts/kidsd41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/kids.woff") format("woff"),
+       url("../fonts/kids.ttf") format("truetype"),
+       url("../fonts/kids.svg#kids") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "kids";
+    src: url("../fonts/kids.svg#kids") format("svg");
+  }
+}
+
+[class^="kids-"]:before, [class*=" kids-"]:before,
+[class^="kids-"]:after, [class*=" kids-"]:after {   
+  font-family: kids;
+  font-style: normal;
+}
+
+.kids-abacus-educational-toy:before { content: "\f100"; }
+.kids-abc-educational-book:before { content: "\f101"; }
+.kids-airplane-toy:before { content: "\f102"; }
+.kids-airplane-toy-of-folded-paper:before { content: "\f103"; }
+.kids-alphabet-cubes-educational-toy:before { content: "\f104"; }
+.kids-baby-rattle-musical-tool:before { content: "\f105"; }
+.kids-ball-on-toy-entertaining-object:before { content: "\f106"; }
+.kids-balloon-smiling-toy:before { content: "\f107"; }
+.kids-baseball-ball-and-bat:before { content: "\f108"; }
+.kids-bear-toy:before { content: "\f109"; }
+.kids-bear-toy-1:before { content: "\f10a"; }
+.kids-bear-toy-2:before { content: "\f10b"; }
+.kids-bird:before { content: "\f10c"; }
+.kids-bird-animal-shape-toy:before { content: "\f10d"; }
+.kids-bird-toy:before { content: "\f10e"; }
+.kids-bird-toy-chair-with-wheels:before { content: "\f10f"; }
+.kids-boat-hand-drawn-toy:before { content: "\f110"; }
+.kids-boat-of-toy:before { content: "\f111"; }
+.kids-boomerang:before { content: "\f112"; }
+.kids-bouncing-ball-toy:before { content: "\f113"; }
+.kids-bus-hand-drawn-toy:before { content: "\f114"; }
+.kids-castle-tower-toy-building:before { content: "\f115"; }
+.kids-cat-toy-with-wheels:before { content: "\f116"; }
+.kids-circular-rattle-toy:before { content: "\f117"; }
+.kids-clown:before { content: "\f118"; }
+.kids-construction-crane-toy-machine:before { content: "\f119"; }
+.kids-crayon-drawing-toy:before { content: "\f11a"; }
+.kids-crocodile-head-toy:before { content: "\f11b"; }
+.kids-cruise:before { content: "\f11c"; }
+.kids-cube-educational-toy-with-shapes:before { content: "\f11d"; }
+.kids-dart:before { content: "\f11e"; }
+.kids-dice-dotted-cube-toy:before { content: "\f11f"; }
+.kids-dinosaur-toy:before { content: "\f120"; }
+.kids-doll-toy:before { content: "\f121"; }
+.kids-dragon-toy:before { content: "\f122"; }
+.kids-drum-hand-drawn-musical-percussion-instrument:before { content: "\f123"; }
+.kids-electrical-piano-toy:before { content: "\f124"; }
+.kids-elephant-toy-with-wheels:before { content: "\f125"; }
+.kids-entertaining-game:before { content: "\f126"; }
+.kids-female-doll-toy-outline:before { content: "\f127"; }
+.kids-funny-toy-robot:before { content: "\f128"; }
+.kids-games-control:before { content: "\f129"; }
+.kids-games-control-hand-drawn-tool:before { content: "\f12a"; }
+.kids-games-machine:before { content: "\f12b"; }
+.kids-giraffe-toy:before { content: "\f12c"; }
+.kids-helicopter-of-toy:before { content: "\f12d"; }
+.kids-horse-balancing-chair-toy:before { content: "\f12e"; }
+.kids-horse-head-on-a-toy-stick:before { content: "\f12f"; }
+.kids-horse-toy-animal:before { content: "\f130"; }
+.kids-kitchen-utensils-toys-couple:before { content: "\f131"; }
+.kids-kite-toy:before { content: "\f132"; }
+.kids-lego-toy-piece-hand-drawn-outline:before { content: "\f133"; }
+.kids-maraca-or-rattle-musical-instrument:before { content: "\f134"; }
+.kids-moon-toy:before { content: "\f135"; }
+.kids-noughts-and-crosses:before { content: "\f136"; }
+.kids-oval-vintage-portrait-picture-toy:before { content: "\f137"; }
+.kids-pacifier:before { content: "\f138"; }
+.kids-paper-airplane-toy:before { content: "\f139"; }
+.kids-phone-or-walkie-talkie-toy:before { content: "\f13a"; }
+.kids-puzzle-piece-shape-handmade-draw:before { content: "\f13b"; }
+.kids-rabbit-toy:before { content: "\f13c"; }
+.kids-rattle:before { content: "\f13d"; }
+.kids-rattle-tool:before { content: "\f13e"; }
+.kids-ring-of-entertaining-toy-object:before { content: "\f13f"; }
+.kids-robot-toy:before { content: "\f140"; }
+.kids-shapes-educational-toy:before { content: "\f141"; }
+.kids-soccer-ball-sportive-toy:before { content: "\f142"; }
+.kids-spherical-rattle-musical-toy:before { content: "\f143"; }
+.kids-spin-toy:before { content: "\f144"; }
+.kids-spoon-and-fork-kitchen-utensils-pair-of-toys:before { content: "\f145"; }
+.kids-stars-and-moon-mobile-toy:before { content: "\f146"; }
+.kids-tambourine-musical-toy:before { content: "\f147"; }
+.kids-toy-airplane:before { content: "\f148"; }
+.kids-toy-ball:before { content: "\f149"; }
+.kids-toy-ball-1:before { content: "\f14a"; }
+.kids-toy-car:before { content: "\f14b"; }
+.kids-toy-car-1:before { content: "\f14c"; }
+.kids-toy-car-of-rounded-shape:before { content: "\f14d"; }
+.kids-toy-car-transport:before { content: "\f14e"; }
+.kids-toy-duck:before { content: "\f14f"; }
+.kids-toy-entertaining-tool-of-bow-shape:before { content: "\f150"; }
+.kids-toy-guitar:before { content: "\f151"; }
+.kids-toy-gun:before { content: "\f152"; }
+.kids-toy-helix:before { content: "\f153"; }
+.kids-toy-horse-chair-transport:before { content: "\f154"; }
+.kids-toy-object:before { content: "\f155"; }
+.kids-toy-photo-camera-back:before { content: "\f156"; }
+.kids-toy-robot:before { content: "\f157"; }
+.kids-toy-shapes:before { content: "\f158"; }
+.kids-toy-space-ship:before { content: "\f159"; }
+.kids-toy-spoons-couple:before { content: "\f15a"; }
+.kids-toy-trumpet:before { content: "\f15b"; }
+.kids-toy-xylophone-musical-instrument:before { content: "\f15c"; }
+.kids-train-locomotive-toy:before { content: "\f15d"; }
+.kids-truck-toy:before { content: "\f15e"; }
+.kids-ufo-toy:before { content: "\f15f"; }
+.kids-unicorn-head-on-stick-toy:before { content: "\f160"; }
+.kids-worm-animal-toy:before { content: "\f161"; }
+.kids-worm-toy:before { content: "\f162"; }
+.kids-yoyo-toy:before { content: "\f163"; }

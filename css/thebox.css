@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 26/02/2019 11:54
+  	*/
+
+@font-face {
+  font-family: "Thebox";
+  src: url("../fonts/thebox.eot");
+  src: url("../fonts/theboxd41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/thebox.woff2") format("woff2"),
+       url("../fonts/thebox.woff") format("woff"),
+       url("../fonts/thebox.ttf") format("truetype"),
+       url("../fonts/thebox.svg#Thebox") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Thebox";
+    src: url("../fonts/thebox.svg#Thebox") format("svg");
+  }
+}
+
+[class^="thebox-"]:before, [class*=" thebox-"]:before,
+[class^="thebox-"]:after, [class*=" thebox-"]:after {   
+  font-family: Thebox;
+  font-style: normal;
+}
+
+.thebox-laptop:before { content: "\f100"; }
+.thebox-box:before { content: "\f101"; }
+.thebox-shopping-bag:before { content: "\f102"; }
+.thebox-24-hours:before { content: "\f103"; }
+.thebox-like:before { content: "\f104"; }
+.thebox-delivery-truck:before { content: "\f105"; }
+.thebox-discount:before { content: "\f106"; }
+.thebox-megaphone:before { content: "\f107"; }
+.thebox-package:before { content: "\f108"; }
+.thebox-shopping-bag-1:before { content: "\f109"; }
+.thebox-delivery-truck-1:before { content: "\f10a"; }
+.thebox-shopping:before { content: "\f10b"; }
+.thebox-info:before { content: "\f10c"; }
+.thebox-value:before { content: "\f10d"; }
+.thebox-chat-bubble:before { content: "\f10e"; }
+.thebox-ideogram:before { content: "\f10f"; }
+.thebox-hands-and-gestures:before { content: "\f110"; }
+.thebox-icon-1581762:before { content: "\f111"; }
+.thebox-birthday-and-party:before { content: "\f112"; }
+.thebox-timer:before { content: "\f113"; }
+.thebox-medal-1:before { content: "\f114"; }
+.thebox-package-1:before { content: "\f115"; }
+.thebox-package-2:before { content: "\f116"; }
+.thebox-gift:before { content: "\f117"; }
+.thebox-surprise:before { content: "\f118"; }
+.thebox-gift-1:before { content: "\f119"; }
+.thebox-gift-2:before { content: "\f11a"; }
+.thebox-gift-3:before { content: "\f11b"; }
+.thebox-scooter:before { content: "\f11c"; }
+.thebox-medal:before { content: "\f11d"; }
+.thebox-24-hours-1:before { content: "\f11e"; }
